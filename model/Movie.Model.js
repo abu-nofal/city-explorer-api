@@ -5,7 +5,7 @@ class Movie{
   
       this.total_votes=data.vote_count
   
-      this.image_url= 'https://image.tmdb.org/t/p/w300'+data.backdrop_path
+      this.image_url= 'https://image.tmdb.org/t/p/w185'+data.poster_path
   
       this.popularity=data.popularity
   
