@@ -14,9 +14,6 @@ class Movie{
         this.image_url= 'https://image.tmdb.org/t/p/w185'+data.poster_path
       }
   
-  
-      
-     
   }
   }
 
